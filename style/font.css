@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'PB';
+    src: url('../fonts/Play-Bold.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'PR';
+    src: url('../fonts/Play-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NR';
+    src: url('../fonts/NotoSans-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}

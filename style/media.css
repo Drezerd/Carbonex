@@ -1,0 +1,233 @@
+@media (max-width: 1478px) {
+  .advan {
+    max-width: 700px;
+  }
+  .advans{
+    padding: 30px;
+    max-width: 700px;
+  }
+  .about {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    width: 90%;
+  }
+  .background__2{
+    height: 85%;
+    top: 30px;
+    right: -30px; 
+    z-index: -1;
+  }
+  .for__img__2{
+    margin-top: 30px;
+  }
+
+  .new {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .news__div {
+    width: 445px;
+  }
+
+  .sink {
+    width: 445px;
+  }
+
+  .news__div__1 {
+    width: 445px;
+  }
+
+  .c {
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+
+  .production {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+  }
+
+  .last {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .for__img__2 {
+    padding-top: 60px;
+  }
+
+  /* .imgg::before {
+    top: 60px;
+    height: 90%;
+  } */
+
+  .add {
+    padding: 30px 0;
+
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin-bottom: 101px;
+    gap: 0px;
+  }
+
+
+  .news__div__p {
+    padding-left: 100px;
+  }
+
+  .product__a {
+    padding-left: 35px;
+  }
+
+  .ad {
+    background: url("https://static.wikia.nocookie.net/cyberpunk/images/1/1c/NC-Profile-2077-Placeholder.jpg/revision/latest?cb=20200501024902");
+    background-position: center bottom;
+  }
+}
+
+@media (max-width: 1100px) {
+  .for {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .footer__div {
+    flex-direction: column;
+    gap: 30px;
+    padding-bottom: 10px;
+  }
+
+  @media (max-width: 900px) {
+    .about__img {
+      width: 100%;
+      height: 100%;
+    }
+
+    .background {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+  @media (max-width: 830px){
+    .last__part{
+      flex-direction: column;
+      gap: 20px;
+    }
+  .car__p__2{
+    width: 477px;
+  }
+}
+@media (max-width: 790px){
+  .background__2{
+    display: none;
+  }
+  .header__ul,.footer__ul{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .news__div__1 {
+    max-width: 100%;
+}
+.news__div {
+  max-width: 100%;
+}
+.sink {
+  max-width: 100%;
+}
+}
+@media (max-width: 830px){
+  .main__p {
+      font-family: "PB";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 30px;
+      letter-spacing: 0.05em;
+      max-width: 803px;
+      text-align: center;
+      color: black;
+  }
+  .for_ {
+    align-items: center;
+}
+  .main__p__2 {
+    font-family: "NS";
+    font-style: normal;
+    font-weight: 400;
+    color: black;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+}
+.car__p__2 {
+  max-width: 296px;
+}
+.header__right {
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+.production > div {
+  width: 100%;
+}
+.last__parts {
+  display: flex;
+  gap: 32px;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.num {
+  display: flex;
+}
+.main__a {
+  padding: 15px 30px;
+  width: 220px;
+}
+
+.news {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 435px;
+  width: 100%;
+  margin: 0 auto;
+}
+.news__div__p {
+  padding-left: 35px;
+}
+.news__div__1 {
+  max-width: 100%;
+}
+.background {
+  top: -20px;
+  right: -20px;
+}
+}
+@media (max-width: 500px){
+.production__ {
+  font-family: "PB";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 48px;
+  letter-spacing: 0.05em;
+  color: #323232;
+  text-align: center;
+}
+.news__div__1 {
+  width: 100%;
+
+}
+}
